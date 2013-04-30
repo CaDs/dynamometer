@@ -1,0 +1,10 @@
+.bundle
+*.pid
+*.swp
+config/aws_config.yml
+config/redis_config.yml
+config/sidekiq.yml
+config/dynamodb.yml
+tmp/*
+.DS_Store
+.rvmrc
